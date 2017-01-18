@@ -490,9 +490,6 @@ KB931906](http://filelist.ro/details.php?id=228941)
 [Brandopolis - A big brand content strategy report from
 Distilled](http://www.distilled.net/brandopolis/)
 
-[FW: thoughts on MCP website? - getbutterfly@gmail.com -
-Gmail](https://mail.google.com/mail/u/0/#inbox/14238170ee0d3353)
-
 [iOS Dev Center - Apple
 Developer](https://developer.apple.com/devcenter/ios/index.action)
 
@@ -700,9 +697,6 @@ CodeCanyon](http://codecanyon.net/author/top_authors)
 light](http://planetpixelemporium.com/tutorialpages/light.html)
 
 [Gallery | Blender Cookie](http://cgcookie.com/blender/gallery/)
-
-[PhotoSmash Settings ‹ getButterfly Theme Development Server —
-WordPress](http://getbutterfly.com/demo/themes/wp-admin/admin.php?page=bwb-photosmash.php)
 
 [SquareCity](http://squarecity.co/)
 
@@ -1306,9 +1300,6 @@ Once](http://webfontload.com/?ref=hackingui)
 
 [HTML5 Sortable](http://farhadi.ir/projects/html5sortable/)
 
-[intoDNS: getbutterfly.com - check DNS server and mail server
-health](http://www.intodns.com/getbutterfly.com)
-
 [Downloads – Oracle VM
 VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
@@ -1407,9 +1398,6 @@ notepad](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 versions)](http://3v4l.org/fMbPJ)
 
 [Canonical | The company behind Ubuntu](http://www.canonical.com/)
-
-[getbutterfly.com | Website Review for getbutterfly.com |
-WooRank.com](https://www.woorank.com/en/www/getbutterfly.com)
 
 [minigrid: minimal 2kb cascading grid layout | by
 @healves82](http://alves.im/minigrid/)
@@ -1602,9 +1590,6 @@ Centre](https://help.blacknight.com/entries/22918371-How-to-install-an-SSL-cert)
 [parallax.js](http://matthew.wagerfield.com/parallax/)
 
 [CSSGram](http://una.im/CSSgram/)
-
-[WP Social Login ‹ getButterfly —
-WordPress](http://getbutterfly.com/wp-admin/options-general.php?page=wordpress-social-login&wslp=tools&do=diagnostics&_wpnonce=fd20da73d8)
 
 [25 Best Dad Jokes Ever. For These Dads It's All Pun and
 Games.](http://www.tickld.com/x/sh/25-best-dad-jokes-ever-for-these-dads-its-all-pun-and-games)
